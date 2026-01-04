@@ -33,6 +33,8 @@
 ## 📊 Skills Summary
 
 - **Technical:** C#, Unity, Lua
+- **RDBMS:** Postgres, SQL server
+- **No SQL:** Firebase
 - **Soft Skills:** English, SCRUM Workflow, Teamwork.
 - **Design:** Adobe Illustrator (AI), Photoshop (PTS), Canva, Freehand Drawing.
 
