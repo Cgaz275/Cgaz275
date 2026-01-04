@@ -10,6 +10,8 @@
 
 ✔ I love to draw, check my instagram for my art here at [Gallef_Artist](https://www.instagram.com/Gallef_artist/) 
 
+✔ Designer with hands-on experience in the field. Explore my portfolio: [Design_Portfolio](Link)
+
 ---
 
 ## 🏗️ Featured Projects
