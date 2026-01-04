@@ -31,7 +31,7 @@
 ## 📊 Skills Summary
 
 - **Technical:** C#, Unity, Lua
-- **Soft Skills:** English (Professional), SCRUM Workflow, Teamwork.
+- **Soft Skills:** English, SCRUM Workflow, Teamwork.
 - **Design:** Adobe Illustrator (AI), Photoshop (PTS), Canva, Freehand Drawing.
 
 ---
