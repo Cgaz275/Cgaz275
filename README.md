@@ -38,5 +38,5 @@
 
 ## 📫 Contact Me!
 
-- **LinkedIn:** [CGA](https://www.linkedin.com/in/chaugiaanh/)
+- **LinkedIn:** [https://www.linkedin.com/in/chaugiaanh/](https://www.linkedin.com/in/chaugiaanh/)
 - **Gmail:** chaugiaanh275@gmail.com
