@@ -39,4 +39,4 @@
 ## 📫 Contact Me!
 
 - **LinkedIn:** [CGA](https://www.linkedin.com/in/chaugiaanh/)
-- **Gmail:** [mailto me](chaugiaanh275@gmail.com)
+- **Gmail:** chaugiaanh275@gmail.com
