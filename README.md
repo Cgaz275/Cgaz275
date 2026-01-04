@@ -36,4 +36,4 @@
 
 ## 📫 Contact Me!
 
-- **LinkedIn:** [https://www.linkedin.com/in/chaugiaanh/]
+- **LinkedIn:** [CGA](https://www.linkedin.com/in/chaugiaanh/)
