@@ -10,13 +10,13 @@
 
 ## 🏗️ Featured Projects
 
-### 1. [Food Delivery System](https://github.com/Cgaz275/SGU2025_CNPM_NHOM15)
+### 1. [Food Delivery System](https://github.com/Cgaz275/SGU2025_CNPM_NHOM15) - FoodFast 
 - **Description:** A comprehensive delivery platform with specialized interfaces for Admins, Clients, and Store Owners.
 - **Tech Stack:** `NextJS`, `Firebase`
 - **Key Features:** Real-time order tracking, menu management, delivery status tracking via maps, Multi-vendor Support, multi-platform (mobile version with expo)
 - **My role:** Fullstack website (admin+client+multivendor), firebase setup
 
-### 2. [ChinChin GameStore](https://github.com/Chin2109/WEB_II)
+### 2. [E-com website for game CDs](https://github.com/Chin2109/WEB_II) - ChinChin GameStore
 - **Description:** An e-commerce website for selling Game CDs with Admin and Client roles.
 - **Tech Stack:** `C#`, `Razor`, `SQL Server`, `JavaScript`
 - **Key Features:** MVC Architecture, Gmail contact form integration, User Authentication, Inventory Management, and Image Cropping for product uploads.
