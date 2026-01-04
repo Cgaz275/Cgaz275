@@ -17,7 +17,7 @@
 ### 1. [Food Delivery System](https://github.com/Cgaz275/SGU2025_CNPM_NHOM15)
 - **Description:** A comprehensive delivery platform with specialized interfaces for Admins, Clients, and Store Owners.
 - **Tech Stack:** `NextJS`, `Firebase`
-- **Key Features:** Real-time order tracking, menu management, and delivery status tracking via maps.
+- **Key Features:** Real-time order tracking, menu management, delivery status tracking via maps, Multi-vendor Support
 
 ### 2. [ChinChin GameStore](https://github.com/Chin2109/WEB_II)
 - **Description:** An e-commerce website for selling Game CDs with Admin and Client roles.
