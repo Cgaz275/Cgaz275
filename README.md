@@ -17,7 +17,7 @@
 - **My role:** Fullstack website (admin+client+multivendor), firebase setup
 - **Team size:** 2
 
-### 2. [E-com website for game CDs](https://github.com/Chin2109/WEB_II) - ChinChin GameStore
+### 2. [E-com website for game CDs](https://github.com/Chin2109/CSharp) - ChinChin GameStore
 - **Description:** An e-commerce website for selling Game CDs with Admin and Client roles.
 - **Tech Stack:** `C#`, `Razor`, `SQL Server`, `JavaScript`
 - **Key Features:** MVC Architecture, Gmail contact form integration, User Authentication, Inventory Management, and Image Cropping for product uploads.
