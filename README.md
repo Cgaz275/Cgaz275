@@ -15,12 +15,14 @@
 - **Tech Stack:** `NextJS`, `Firebase`
 - **Key Features:** Real-time order tracking, menu management, delivery status tracking via maps, Multi-vendor Support, multi-platform (mobile version with expo)
 - **My role:** Fullstack website (admin+client+multivendor), firebase setup
+- **Team size:** 2
 
 ### 2. [E-com website for game CDs](https://github.com/Chin2109/WEB_II) - ChinChin GameStore
 - **Description:** An e-commerce website for selling Game CDs with Admin and Client roles.
 - **Tech Stack:** `C#`, `Razor`, `SQL Server`, `JavaScript`
 - **Key Features:** MVC Architecture, Gmail contact form integration, User Authentication, Inventory Management, and Image Cropping for product uploads.
 - **My role:** UI/UX Refactoring, client side business logic + rendering
+- - **Team size:** 4 
 
 ---
 
