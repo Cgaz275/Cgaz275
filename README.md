@@ -18,11 +18,13 @@
 - **Description:** A comprehensive delivery platform with specialized interfaces for Admins, Clients, and Store Owners.
 - **Tech Stack:** `NextJS`, `Firebase`
 - **Key Features:** Real-time order tracking, menu management, delivery status tracking via maps, Multi-vendor Support
+- **My role:** Fullstack website (admin+client+multivendor), firebase setup
 
 ### 2. [ChinChin GameStore](https://github.com/Chin2109/WEB_II)
 - **Description:** An e-commerce website for selling Game CDs with Admin and Client roles.
-- **Tech Stack:** `C# .NET`, `SQL Server`, `JavaScript`
+- **Tech Stack:** `C#`, `Razor`, `SQL Server`, `JavaScript`
 - **Key Features:** MVC Architecture, Gmail contact form integration, User Authentication, Inventory Management, and Image Cropping for product uploads.
+- **My role:** UI/UX Refactoring, client side business logic + rendering
 
 ---
 
