@@ -1,16 +1,10 @@
 ## Hi there, I'm Cgaz 😎
 
-✔ I'm majoring in IT
+✔ Passion: I'm a Game Developer at heart, diving deep into Unity Engine.
 
-✔ I'm willing to dive deep in tech, especially in `Game development` (Unity focusing)
+✔ Main Stack: C#, Unity Engine, Lua.
 
-✔ My main tech stack is: `C#, Unity Engine, Lua`
-
-✔ My school is SGU (SaiGon University) - Projects prefixed with 'SGU' are academic assignments
-
-✔ I love to draw, check my instagram for my art here at [Gallef_Artist](https://www.instagram.com/Gallef_artist/) 
-
-✔ Designer with hands-on experience in the field. Explore my portfolio: [Design_Portfolio](Link)
+✔ Art & Design: I'm also a designer! Check out my art on Instagram: @Gallef_Artist or view my Design Portfolio.
 
 ---
 
