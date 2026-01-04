@@ -4,7 +4,7 @@
 
 ✔ Main Stack: C#, Unity Engine, Lua.
 
-✔ Art & Design: I'm also a designer! Check out my art on Instagram: [@Gallef_Artist](https://www.instagram.com/Gallef_artist/) or view my [Design Portfolio](Link).
+✔ Art & Design: I'm also an artist and designer! Check out my art on Instagram: [@Gallef_Artist](https://www.instagram.com/Gallef_artist/) or view my [Design Portfolio](Link).
 
 ---
 
