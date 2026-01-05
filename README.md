@@ -22,7 +22,9 @@
 - **Tech Stack:** `C#`, `Razor`, `SQL Server`, `JavaScript`
 - **Key Features:** MVC Architecture, Gmail contact form integration, User Authentication, Inventory Management, and Image Cropping for product uploads.
 - **My role:** UI/UX Refactoring, client side business logic + rendering
-- **Team size:** 4 
+- **Team size:** 4
+
+(To be updating...)
 
 ---
 
