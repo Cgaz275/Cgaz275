@@ -14,7 +14,7 @@
 - **Description:** A comprehensive delivery platform with specialized interfaces for Admins, Clients, and Store Owners.
 - **Tech Stack:** `NextJS`, `Firebase`
 - **Key Features:** Real-time order tracking, menu management, delivery status tracking via maps, Multi-vendor Support, multi-platform (mobile version with expo)
-- **My role:** Fullstack website (admin+client+multivendor), firebase setup
+- **My role:** Fullstack website (admin+client+vendor), firebase setup
 - **Team size:** 2
 
 ### 2. [E-com website for game CDs](https://github.com/Chin2109/CSharp) - ChinChin GameStore
