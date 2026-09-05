@@ -29,7 +29,7 @@
 - **Tech Stack**: `React`, `NodeJS`, `FireBase`
 - **Key Features**: Digital business card creation, direct messaging interface, AI-powered personal persona chatbot, profile customization, contact information sharing.
 - **My role**: Fullstack Developer 
-- **Team size**: 3
+- **Team size**: 4 
 
 (To be updating...)
 
