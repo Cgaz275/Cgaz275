@@ -26,9 +26,9 @@
 
 ### 3. [Digital Card Visit Chatbot Platform](https://github.com/Cgaz275/NHOM_SGU2026_SeminarChuyenDe_DCT122C3) - Project Seminar
 - **Description**: An interactive digital business card website that allows users to create personal profiles integrated with an AI chatbot to automatically respond on their behalf.
-- **Tech Stack**: NextJS, PostgreSQL, TailwindCSS
+- **Tech Stack**: `React`, `NodeJS`, `FireBase`
 - **Key Features**: Digital business card creation, direct messaging interface, AI-powered personal persona chatbot, profile customization, contact information sharing.
-- **My role**: Fullstack Developer (UI Design, Chatbot integration, database schema)
+- **My role**: Fullstack Developer 
 - **Team size**: 3
 
 (To be updating...)
